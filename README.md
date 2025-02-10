@@ -1,5 +1,5 @@
 # Motion Sickness Helper 2
-A PAYDAY 2 mod merge removes motion sickness inducing camera effects, name inspired by the [PAYDAY: The Heist mod of the same name](https://modworkshop.net/mod/40746).
+A PAYDAY 2 mod merge that removes motion sickness inducing camera effects. Name inspired by the [PAYDAY: The Heist mod of the same name](https://modworkshop.net/mod/40746).
 
 ## Mods Included
 - [No ADS Breathing Effect](https://modworkshop.net/mod/21246)
