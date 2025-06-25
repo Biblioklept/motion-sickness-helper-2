@@ -3,6 +3,7 @@ local norecoil_blacklist = {
 	["flamethrower_mk2"] = true,
 	["system"] = true,
 	["china"] = true,
+	["money"] = true,
 	
 	--Shotguns
 	["r870_shotgun"] = true,
@@ -11,6 +12,7 @@ local norecoil_blacklist = {
 	["m37"] = true,
 	["m1897"] = true,
 	["m590"] = true,
+	["supernova"] = true,
 	
 	--Sniper Rifles
 	["winchester1874"] = true,
@@ -23,6 +25,7 @@ local norecoil_blacklist = {
 	["sbl"] = true,
 	["desertfox"] = true,
 	["scout"] = true,
+	["awp"] = true,
 	
 	--Pistols
 	["peacemaker"] = true,

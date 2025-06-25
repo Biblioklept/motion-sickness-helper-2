@@ -4,6 +4,7 @@ A PAYDAY 2 mod merge that removes motion sickness inducing camera effects. Name 
 ## Mods Included
 - [No ADS Breathing Effect](https://modworkshop.net/mod/21246)
 - [No ADS Recoil Animations](https://modworkshop.net/mod/25619)
+- [No ADS Movement](https://modworkshop.net/mod/32461)
 - [No Screen Shake](https://modworkshop.net/mod/22471)
 - [Bag Carrying Tilt Removal](https://modworkshop.net/mod/16487)
 
