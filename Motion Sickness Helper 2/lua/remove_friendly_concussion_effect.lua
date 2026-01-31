@@ -1,0 +1,1 @@
+function CoreEnvironmentControllerManager:set_concussion_grenade() end
