@@ -7,9 +7,10 @@ A PAYDAY 2 mod merge that removes motion sickness inducing camera effects. Name 
 - [No ADS Movement](https://modworkshop.net/mod/32461)
 - [No Screen Shake](https://modworkshop.net/mod/22471)
 - [Bag Carrying Tilt Removal](https://modworkshop.net/mod/16487)
+- [Concussion Grenade Effect Remove](https://modworkshop.net/mod/37032)
 
 ## Mod Merge Goals
 - Provide a robust, bug-free merge that will work with any setup.
-- Easy customizability by simply removing the lines of code you dont want to use.
-- No feature overcreep, ala what happened to my "updated" version of Sniff Utils 2.
-- Seperated sections of mods to provide a more "pick and choose experience".
+- Easy customizability by simply removing the lines of code you don't want to use.
+- No feature-creep, ala what happened to my "updated" version of Sniff Utils 2.
+- Separated sections of mods to provide a more "pick and choose experience".
