@@ -1,0 +1,11 @@
+{
+  "name": "Motion Sickness Helper 2",
+  "updates": [
+    {
+      "identifier": "motion_sickness_helper_2",
+      "version": "4",
+      "download_url": "https://github.com/biblioklept/motion-sickness-helper-2/releases/download/v4/MotionSicknessHelper2.zip",
+      "notes": "Auto-updater added."
+    }
+  ]
+}
